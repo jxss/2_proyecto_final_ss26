@@ -1,17 +1,17 @@
-a_id,b_id,score
-A1,B1,0.0
-A1,B2,0.0
-A1,B3,0.0
-A1,B4,0.0
-A2,B1,0.8193
-A2,B2,0.5743
-A2,B3,0.8798
-A2,B4,0.8882
-A3,B1,1.0
-A3,B2,1.0
-A3,B3,1.0
-A3,B4,1.0
-A4,B1,0.9032
-A4,B2,0.6808
-A4,B3,0.8334
-A4,B4,0.8446
+a_id,b_id,score,a_nombre,b_nombre
+A1,B1,0.0000,Madrugada (00-05h),"Hombre, 21-30 años"
+A1,B2,0.0000,Madrugada (00-05h),"Hombre, 10-20 años"
+A1,B3,0.0000,Madrugada (00-05h),"Hombre, 31-40 años"
+A1,B4,0.0000,Madrugada (00-05h),"Mujer, 21-30 años"
+A2,B1,0.8193,Mañana (06-11h),"Hombre, 21-30 años"
+A2,B2,0.5743,Mañana (06-11h),"Hombre, 10-20 años"
+A2,B3,0.8798,Mañana (06-11h),"Hombre, 31-40 años"
+A2,B4,0.8882,Mañana (06-11h),"Mujer, 21-30 años"
+A3,B1,1.0000,Tarde (12-17h),"Hombre, 21-30 años"
+A3,B2,1.0000,Tarde (12-17h),"Hombre, 10-20 años"
+A3,B3,1.0000,Tarde (12-17h),"Hombre, 31-40 años"
+A3,B4,1.0000,Tarde (12-17h),"Mujer, 21-30 años"
+A4,B1,0.9032,Noche (18-23h),"Hombre, 21-30 años"
+A4,B2,0.6808,Noche (18-23h),"Hombre, 10-20 años"
+A4,B3,0.8334,Noche (18-23h),"Hombre, 31-40 años"
+A4,B4,0.8446,Noche (18-23h),"Mujer, 21-30 años"
