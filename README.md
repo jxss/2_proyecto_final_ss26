@@ -41,7 +41,7 @@ Antes de construir la instancia 4×4 se aplicaron tres correcciones, documentada
 | A3 | Tarde (12–17h) |
 | A4 | Noche (18–23h) |
 
-**Conjunto $B$ — 4 categorías demográficas** (combinación de género y rango de edad), seleccionadas con la siguiente regla explícita: de las 23 combinaciones posibles de género×edad observadas en julio 2024, se identificó que el patrón de preferencia horaria relativa (qué franja ocupa el segundo lugar en volumen, después de "Tarde", que domina en todas las categorías) se bifurca en dos grupos — unas categorías prefieren Noche en segundo lugar, otras prefieren Mañana. Se eligieron las 2 categorías de mayor volumen de cada grupo, maximizando la divergencia real observada en los datos en lugar de tomar arbitrariamente las 4 de mayor volumen total:
+**Conjunto $B$ — 4 categorías demográficas** (combinación de género y rango de edad), seleccionadas con la siguiente regla explícita: de las 23 combinaciones posibles de género×edad observadas en julio 2024, se identificó que el patrón de preferencia horaria relativa (qué franja ocupa el segundo lugar en volumen, después de "Tarde", que domina en todas las categorías) se bifurca en dos grupos  unas categorías prefieren Noche en segundo lugar, otras prefieren Mañana. Se eligieron las 2 categorías de mayor volumen de cada grupo, maximizando la divergencia real observada en los datos en lugar de tomar arbitrariamente las 4 de mayor volumen total:
 
 | id | Categoría | Viajes totales (jul. 2024) | Preferencia 2º lugar |
 |---|---|---|---|
